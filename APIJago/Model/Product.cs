@@ -11,7 +11,7 @@ namespace APIJago.Model
         public int Quantity { get; set; } //only for validators
         public double Price { get; set; }
         public EProductType Type { get; set; }
-        //public virtual Client Client { get; set; }
+        public virtual Client Client { get; set; }
         public Guid ClientId { get; set; }
 
 

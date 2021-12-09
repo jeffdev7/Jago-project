@@ -31,13 +31,13 @@ namespace APIJago.Controllers
             return _jagoContext.Clients.SingleOrDefault(j=>j.Id == id);
         }
 
-        // POST api/<ClientController>
-        [HttpPost]
-        public void Post([FromBody] Client client)
-        {
-            _jagoContext.Clients.Add(client);
-            _jagoContext.SaveChanges();
-        }
+      
+        //[HttpPost]
+        //public void Post([FromBody] Client client)
+        //{
+        //    _jagoContext.Clients.Add(client);
+        //    _jagoContext.SaveChanges();
+        //}
 
         // PUT api/<ClientController>/5
         [HttpPut("{id}")]

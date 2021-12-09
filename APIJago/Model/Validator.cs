@@ -9,7 +9,7 @@ namespace APIJago.Model
         public string ModeloArduino { get; set; }
         public string Protoboard { get; set; }
         public double InStock { get; set; } //quantidade em estoque ou pré entrega
-        //public virtual Fornecedor Fornecedor { get; set; }
+        public virtual Fornecedor Fornecedor { get; set; }
         public Guid FornecedorId { get; set; }
 
 

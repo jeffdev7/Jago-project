@@ -13,6 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.Sqlite;
 
 namespace APIJago
 {
@@ -28,14 +29,16 @@ namespace APIJago
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
-            //services.AddControllers();
-            services.AddMvc();
-            services.AddDbContext<JagoContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnectionDBJago")));
+            
+            services.AddControllers();  
+           
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "APIJago", Version = "v1" });
             });
+
+            var connection = Configuration["ConnectionSqlite:SqliteConnectionString"];
+            services.AddDbContext<JagoContext>(options => options.UseSqlite(connection));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

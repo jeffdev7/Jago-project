@@ -11,7 +11,7 @@ namespace APIJago.Model
         public string Telefone { get; set; }
         public string Celular { get; set; }
         public string Email { get; set; }
-      //  public virtual Client Client { get; set; }
+        public virtual Client Client { get; set; }
         public Guid ClientId { get; set; }
 
         public Representative() { }

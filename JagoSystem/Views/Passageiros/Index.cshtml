@@ -1,32 +1,34 @@
-﻿@model IEnumerable<JagoSystem.Models.Passageiro>
+﻿@model Page<JagoSystem.Models.Passageiro>
 
 @{
     ViewData["Title"] = "Index";
 }
+<br />
+<h3>Passageiros</h3>
 
-<h2>Passageiros</h2>
-
-<p>
-    <a asp-action="Create" class="btn btn-success"><i class="fas fa-plus"></i>Adicionar</a>
-</p>
+<div>
+    <p>
+        <a asp-action="Create" class="btn btn-success"><i class="fas fa-plus"></i>Adicionar</a>
+    </p>
+</div>
 <table class="table">
     <thead>
         <script src="https://kit.fontawesome.com/ca515fdac4.js" crossorigin="anonymous"></script>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Name)
+               Name
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.RG)
+                RG
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CPF)
+                CPF
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Celular)
+               Celular
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Email)
+               Email
             </th>
             <th></th>
         </tr>
@@ -60,3 +62,13 @@
        
     </tbody>
 </table>
+
+@{
+    var prev = !Model.PreviousPage ? "disabled " : "";
+    var next = !Model.NextPage ? "disabled" : "";
+}
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex -1)"
+class="btn btn-outline-primary @prev"> Anterior</a>
+
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex + 1)"
+class="btn btn-outline-primary @next"> Próximo</a>

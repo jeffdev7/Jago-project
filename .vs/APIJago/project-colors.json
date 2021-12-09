@@ -15,7 +15,12 @@
       "ProjectGuid": "06e5452b-1fa6-4cd8-9d73-cf460b801445",
       "DisplayName": "Jago",
       "ColorIndex": 1
+    },
+    "9c31ddfb-61b8-4526-877a-d833009785dd": {
+      "ProjectGuid": "9c31ddfb-61b8-4526-877a-d833009785dd",
+      "DisplayName": "APIJago",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

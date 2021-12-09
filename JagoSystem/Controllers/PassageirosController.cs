@@ -17,9 +17,9 @@ namespace JagoSystem.Controllers
         }
 
         // GET: Passageiros
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int pageNumber =1)
         {
-            return View(await _context.Passageiros.ToListAsync());
+            return View(await Page<Passageiro>.CreateAsync(_context.Passageiros, pageNumber, 6));
         }
 
         // GET: Passageiros/Details/5
