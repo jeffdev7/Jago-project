@@ -22,6 +22,7 @@ namespace JagoSystem.Controllers
         {
             var systemContext = _context.Trips.Include(t => t.Passageiro);
             return View(await systemContext.ToListAsync());
+            
         }
 
         // GET: Trips/Details/5

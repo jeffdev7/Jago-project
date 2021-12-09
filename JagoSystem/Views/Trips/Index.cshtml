@@ -4,13 +4,14 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Viagens</h1>
+<h2>Viagens</h2>
 
 <p>
     <a asp-action="Create" class="btn btn-success"><i class="fas fa-bus"></i>Nova viagem</a>
 </p>
 <table class="table">
     <thead>
+         <script src="https://kit.fontawesome.com/ca515fdac4.js" crossorigin="anonymous"></script>
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Origem)
@@ -41,6 +42,7 @@
                     @Html.DisplayFor(modelItem => item.Destino)
                 </td>
                 <td>
+                    
                     @Html.DisplayFor(modelItem => item.Departure)
                 </td>
                 <td>
@@ -50,12 +52,12 @@
                     @Html.DisplayFor(modelItem => item.Passageiro.Name)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <a asp-action="Edit" class="btn btn-light" asp-route-id="@item.Id"><i class="far fa-edit"></i></a> |
+                    <a asp-action="Details" class="btn btn-info" asp-route-id="@item.Id"><i class="fas fa-info-circle"></i></a> |
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id"><i class="fas fa-user-times"></i></a>
                 </td>
             </tr>
         }
-        <script src="https://kit.fontawesome.com/ca515fdac4.js" crossorigin="anonymous"></script>
+       
     </tbody>
 </table>

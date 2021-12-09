@@ -6,6 +6,8 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
+#nullable disable
+
 namespace JagoSystem.Migrations
 {
     [DbContext(typeof(SystemContext))]
@@ -15,9 +17,10 @@ namespace JagoSystem.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.11")
-                .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                .HasAnnotation("Relational:MaxIdentifierLength", 128);
+
+            SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
             modelBuilder.Entity("JagoSystem.Models.Passageiro", b =>
                 {
@@ -42,7 +45,7 @@ namespace JagoSystem.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Passageiros");
+                    b.ToTable("Passageiros", (string)null);
                 });
 
             modelBuilder.Entity("JagoSystem.Models.Trip", b =>
@@ -70,7 +73,7 @@ namespace JagoSystem.Migrations
 
                     b.HasIndex("PassageiroId");
 
-                    b.ToTable("Trips");
+                    b.ToTable("Trips", (string)null);
                 });
 
             modelBuilder.Entity("JagoSystem.Models.Trip", b =>

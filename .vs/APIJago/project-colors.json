@@ -5,7 +5,17 @@
       "ProjectGuid": "6f5e9120-5007-4d7a-9947-f7f852bcade1",
       "DisplayName": "JagoSystem",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "06e5452b-1fa6-4cd8-9d73-cf460b801445": {
+      "ProjectGuid": "06e5452b-1fa6-4cd8-9d73-cf460b801445",
+      "DisplayName": "Jago",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

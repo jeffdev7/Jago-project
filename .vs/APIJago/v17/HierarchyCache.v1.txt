@@ -1,0 +1,356 @@
+﻿++Solution 'APIJago' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:APIJago.sln
+++APIJago
+i:{00000000-0000-0000-0000-000000000000}:APIJago
+++Connected Services 
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:>1738
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1739
+++Dependencies
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:>1736
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1737
+++Properties
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\properties\
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\properties\
+++Controllers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\controllers\
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\controllers\
+++Migrations
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\migrations\
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\migrations\
+++Model
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\
+++Validators
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\validators\
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\validators\
+++appsettings.json
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\appsettings.json
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\appsettings.json
+++Program.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\program.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\program.cs
+++Startup.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\startup.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\startup.cs
+++No service dependencies discovered
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:>1740
+++Analyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:analyzers
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:analyzers
+++Frameworks
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:frameworks
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:frameworks
+++Packages
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:packages
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:packages
+++launchSettings.json
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\properties\launchsettings.json
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\properties\launchsettings.json
+++ClientController.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\controllers\clientcontroller.cs
+++FornecedorController.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\controllers\fornecedorcontroller.cs
+++PartnerController.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\controllers\partnercontroller.cs
+++ProductController.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\controllers\productcontroller.cs
+++RepresentativeController.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\controllers\representativecontroller.cs
+++ServiceController.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\controllers\servicecontroller.cs
+++ValidatorController.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\controllers\validatorcontroller.cs
+++20211019131222_01.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\migrations\20211019131222_01.cs
+++20211106161823_official.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\migrations\20211106161823_official.cs
+++20211106181601_oficial_2.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\migrations\20211106181601_oficial_2.cs
+++JagoContextModelSnapshot.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\migrations\jagocontextmodelsnapshot.cs
+++Enum
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\enum\
+++Client.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\client.cs
+++Fornecedor.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\fornecedor.cs
+++JagoContext.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\jagocontext.cs
+++Partner.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\partner.cs
+++Product.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\product.cs
+++Representative.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\representative.cs
+++Service.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\service.cs
+++Validator.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\validator.cs
+++ClientValidator.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\validators\clientvalidator.cs
+++FornecedorValidator.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\validators\fornecedorvalidator.cs
+++PartnerValidator.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\validators\partnervalidator.cs
+++ProductValidator.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\validators\productvalidator.cs
+++RepresentativeValidator.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\validators\representativevalidator.cs
+++ServiceValidator.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\validators\servicevalidator.cs
+++ValidadorValidator.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\validators\validadorvalidator.cs
+++appsettings.Development.json
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\appsettings.development.json
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\microsoft.aspnetcore.app
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\microsoft.netcore.app
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\microsoft.netcore.app
+++FluentValidation (10.3.4)
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:>1757
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1782
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.11)
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:>1755
+++Microsoft.EntityFrameworkCore.Tools (5.0.11)
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:>1758
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:>1759
+++Swashbuckle.AspNetCore (5.6.3)
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:>1756
+++20211019131222_01.Designer.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\migrations\20211019131222_01.designer.cs
+++20211106161823_official.Designer.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\migrations\20211106161823_official.designer.cs
+++20211106181601_oficial_2.Designer.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\migrations\20211106181601_oficial_2.designer.cs
+++EnumType.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\enum\enumtype.cs
+++EPartnerType.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\enum\epartnertype.cs
+++EProductType.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\enum\eproducttype.cs
+++EServicePlan.cs
+i:{9c31ddfb-61b8-4526-877a-d833009785dd}:c:\users\jefferson\documents\jago-project-main\apijago\model\enum\eserviceplan.cs
+++JagoSystem
+i:{00000000-0000-0000-0000-000000000000}:JagoSystem
+++wwwroot
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\
+++css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\css\
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\
+++Image
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\image\
+++logo (4).png
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\image\logo (4).png
+++js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\js\
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\
+++favicon.ico
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\favicon.ico
+++Models
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\models\
+++Views
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\
+++Home
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\home\
+++Index.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\home\index.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\passageiros\index.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\trips\index.cshtml
+++Privacy.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\home\privacy.cshtml
+++Passageiros
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\passageiros\
+++Shared
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\shared\
+++_Layout.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\shared\error.cshtml
+++Trips
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\trips\
+++_ViewImports.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\_viewstart.cshtml
+++newStyle.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\css\newstyle.css
+++site.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\css\site.css
+++Theme.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\css\theme.css
+++site.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\js\site.js
+++bootstrap
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\
+++jquery
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery\
+++jquery-validation
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation-unobtrusive\
+++HomeController.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\controllers\homecontroller.cs
+++PassageirosController.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\controllers\passageiroscontroller.cs
+++TripsController.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\controllers\tripscontroller.cs
+++20211116235151_01.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\migrations\20211116235151_01.cs
+++SystemContextModelSnapshot.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\migrations\systemcontextmodelsnapshot.cs
+++ErrorViewModel.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\models\errorviewmodel.cs
+++Passageiro.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\models\passageiro.cs
+++SystemContext.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\models\systemcontext.cs
+++Trip.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\models\trip.cs
+++PassageiroValidator.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\validators\passageirovalidator.cs
+++TripValidator.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\validators\tripvalidator.cs
+++Create.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\passageiros\create.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\trips\create.cshtml
+++Delete.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\passageiros\delete.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\trips\delete.cshtml
+++Details.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\passageiros\details.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\trips\details.cshtml
+++Edit.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\passageiros\edit.cshtml
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\views\trips\edit.cshtml
+++MessagePackAnalyzer
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.Extensions.Logging.Generators
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.0)
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1783
+++Microsoft.AspNetCore.Identity.UI (6.0.0)
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1786
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1780
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1781
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1784
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1785
+++dist
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery\dist\
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery\license.txt
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++20211116235151_01.Designer.cs
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\migrations\20211116235151_01.designer.cs
+++jquery.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:c:\users\jefferson\documents\jago-project-main\jagosystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++SQL Server Database (ConnectionStrings:ConnectionDBJago)
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1789
+++SQL Server Database dependency with connectionId 'ConnectionStrings:ConnectionDBJago' is detected
+i:{6f5e9120-5007-4d7a-9947-f7f852bcade1}:>1790
