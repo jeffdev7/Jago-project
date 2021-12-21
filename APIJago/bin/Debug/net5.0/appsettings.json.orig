@@ -1,0 +1,22 @@
+{
+<<<<<<< HEAD
+  "ConnectionSqlite": { "SqliteConnectionString": "Data Source=JagoApi.db" },
+=======
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+<<<<<<< HEAD
+  "AllowedHosts": "*"
+
+=======
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "ConnectionDBJago": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\jeffe\\Documents\\JagoDB.mdf;Integrated Security=True;Connect Timeout=30"
+  }
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+}

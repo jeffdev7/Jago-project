@@ -1,0 +1,33 @@
+﻿using APIJago.Model;
+using FluentValidation;
+<<<<<<< HEAD
+using System.Text.RegularExpressions;
+=======
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+
+namespace APIJago.Validators
+{
+    public class RepresentativeValidator : AbstractValidator<Representative>
+    {
+        public RepresentativeValidator()
+        {
+            RuleFor(j => j.Id).NotEmpty();
+            RuleFor(j => j.Name).NotEmpty();
+            RuleFor(j => j.Name).NotNull();
+            RuleFor(j => j.CPF).NotEmpty();
+            RuleFor(j => j.CPF).NotNull();
+<<<<<<< HEAD
+            RuleFor(j => j.CPF)
+                .Matches(new Regex(@"(^\d{3}\.\d{3}\.\d{3}\-\d{2}$)")).WithMessage("CPF inválido.");
+            RuleFor(j => j.Celular).NotEmpty();
+            RuleFor(j => j.Celular).NotNull();
+            RuleFor(j => j.Email).NotEmpty();
+           
+=======
+            RuleFor(j => j.Celular).NotEmpty();
+            RuleFor(j => j.Celular).NotNull();
+            RuleFor(j => j.Email).NotEmpty();
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+        }
+    }
+}

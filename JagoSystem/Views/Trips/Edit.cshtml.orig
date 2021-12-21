@@ -1,0 +1,68 @@
+﻿@model JagoSystem.Models.Trip
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<<<<<<< HEAD
+<br />
+
+<h4>Alterar dados da viagem</h4>
+=======
+<h1>Alterar dados</h1>
+
+<h4>Trip</h4>
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Origem" class="control-label"></label>
+                <input asp-for="Origem" class="form-control" />
+                <span asp-validation-for="Origem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Destino" class="control-label"></label>
+                <input asp-for="Destino" class="form-control" />
+                <span asp-validation-for="Destino" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Departure" class="control-label"></label>
+                <input asp-for="Departure" class="form-control" />
+                <span asp-validation-for="Departure" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Arrival" class="control-label"></label>
+                <input asp-for="Arrival" class="form-control" />
+                <span asp-validation-for="Arrival" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PassageiroId" class="control-label"></label>
+                <select asp-for="PassageiroId" class="form-control" asp-items="ViewBag.PassageiroId"></select>
+                <span asp-validation-for="PassageiroId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+<<<<<<< HEAD
+                <input type="submit" value="Save" class="btn btn-success" />
+=======
+                <input type="submit" value="Save" class="btn btn-primary" />
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+<<<<<<< HEAD
+    <a asp-action="Index" class="btn btn-primary">Voltar</a>
+=======
+    <a asp-action="Index">Back to List</a>
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

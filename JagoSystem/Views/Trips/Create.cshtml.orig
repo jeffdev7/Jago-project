@@ -1,0 +1,68 @@
+﻿@model JagoSystem.Models.Trip
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<<<<<<< HEAD
+<h2>JaGo</h2>
+
+<h4>Viagens</h4>
+=======
+<h1>JaGo - Viagens</h1>
+
+<h4>Trip</h4>
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Origem" class="control-label"></label>
+                <input asp-for="Origem" class="form-control" required/>
+                <span asp-validation-for="Origem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Destino" class="control-label"></label>
+                <input asp-for="Destino" class="form-control" required/>
+                <span asp-validation-for="Destino" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Departure" class="control-label"></label>
+                <input asp-for="Departure" class="form-control" required/>
+                <span asp-validation-for="Departure" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Arrival" class="control-label"></label>
+                <input asp-for="Arrival" class="form-control" />
+                <span asp-validation-for="Arrival" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PassageiroId" class="control-label"></label>
+                <select asp-for="PassageiroId" class ="form-control" asp-items="ViewBag.PassageiroId">
+                   
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+<<<<<<< HEAD
+     <a asp-action="Index" class="btn btn-light">Voltar</a>
+=======
+    <a asp-action="Index">Back to List</a>
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c

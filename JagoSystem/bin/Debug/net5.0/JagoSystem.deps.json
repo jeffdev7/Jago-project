@@ -1465,6 +1465,8 @@
           "System.Runtime.Handles": "4.3.0"
         }
       },
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -5777,6 +5779,18 @@
       "serviceable": false,
       "sha512": ""
     },
+    "System.Xml.XPath.XDocument/5.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowsBase/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
     "System.Xml.XPath.XDocument/5.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,

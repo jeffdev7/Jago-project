@@ -1,6 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <AssemblyName>APIJago</AssemblyName>
   </PropertyGroup>

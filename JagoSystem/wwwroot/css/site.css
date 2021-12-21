@@ -8,7 +8,11 @@ a.navbar-brand {
 }
 
 /* Provide sufficient contrast against white background */
+<<<<<<< HEAD
 /*a {
+=======
+a {
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
   color: #0366d6;
 }
 
@@ -16,7 +20,11 @@ a.navbar-brand {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+<<<<<<< HEAD
 }*/
+=======
+}
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;

@@ -1,0 +1,112 @@
+<<<<<<< HEAD
+﻿@model Page<JagoSystem.Models.Passageiro>
+=======
+﻿@model IEnumerable<JagoSystem.Models.Passageiro>
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+
+@{
+    ViewData["Title"] = "Index";
+}
+<<<<<<< HEAD
+<br />
+<h3>Passageiros</h3>
+
+<div>
+    <p>
+        <a asp-action="Create" class="btn btn-success"><i class="fas fa-plus"></i>Adicionar</a>
+    </p>
+</div>
+=======
+
+<h1>Passageiros</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success"><i class="fas fa-plus"></i>Adicionar</a>
+</p>
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+<table class="table">
+    <thead>
+        <script src="https://kit.fontawesome.com/ca515fdac4.js" crossorigin="anonymous"></script>
+        <tr>
+            <th>
+<<<<<<< HEAD
+               Name
+            </th>
+            <th>
+                RG
+            </th>
+            <th>
+                CPF
+            </th>
+            <th>
+               Celular
+            </th>
+            <th>
+               Email
+=======
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RG)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Celular)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RG)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CPF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Celular)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+<<<<<<< HEAD
+                    <a asp-action="Edit" class="btn btn-light" asp-route-id="@item.Id"><i class="far fa-edit"></i></a> |
+                    <a asp-action="Details" class="btn btn-info" asp-route-id="@item.Id"><i class="fas fa-info-circle"></i></a> |
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id"> <i class="fas fa-user-times"></i></a>
+=======
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
+                </td>
+            </tr>
+        }
+       
+    </tbody>
+</table>
+<<<<<<< HEAD
+
+@{
+    var prev = !Model.PreviousPage ? "disabled " : "";
+    var next = !Model.NextPage ? "disabled" : "";
+}
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex -1)"
+class="btn btn-outline-primary @prev"> Anterior</a>
+
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex + 1)"
+class="btn btn-outline-primary @next"> Próximo</a>
+=======
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c

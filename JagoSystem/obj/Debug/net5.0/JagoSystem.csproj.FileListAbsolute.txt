@@ -311,6 +311,7 @@ C:\Users\jeffe\Documents\API-jago-main\JagoSystem\obj\Debug\net5.0\Razor\Views\T
 C:\Users\jeffe\Documents\API-jago-main\JagoSystem\obj\Debug\net5.0\Razor\Views\Trips\Edit.cshtml.g.cs
 C:\Users\jeffe\Documents\API-jago-main\JagoSystem\obj\Debug\net5.0\Razor\Views\Trips\Index.cshtml.g.cs
 C:\Users\jeffe\Documents\API-jago-main\JagoSystem\bin\Debug\net5.0\FluentValidation.dll
+<<<<<<< HEAD
 C:\Users\Jefferson\Documents\Jago-project-main\JagoSystem\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Jefferson\Documents\Jago-project-main\JagoSystem\bin\Debug\net5.0\appsettings.json
 C:\Users\Jefferson\Documents\Jago-project-main\JagoSystem\bin\Debug\net5.0\JagoSystem.StaticWebAssets.xml
@@ -468,3 +469,5 @@ C:\Users\Jefferson\Documents\Jago-project-main\JagoSystem\obj\Debug\net5.0\JagoS
 C:\Users\Jefferson\Documents\Jago-project-main\JagoSystem\obj\Debug\net5.0\ref\JagoSystem.dll
 C:\Users\Jefferson\Documents\Jago-project-main\JagoSystem\obj\Debug\net5.0\JagoSystem.pdb
 C:\Users\Jefferson\Documents\Jago-project-main\JagoSystem\obj\Debug\net5.0\JagoSystem.genruntimeconfig.cache
+=======
+>>>>>>> 8f8689b339ec7836668d10ed479d4728aa67947c
